@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="23px" height="23px" viewBox="0 0 23 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>Fb Dark</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Wireframes-Copy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Homepage" transform="translate(-1310.000000, -8098.000000)" fill="#000000" fill-rule="nonzero">
+            <g id="Group-21" transform="translate(289.000000, 7912.000000)">
+                <g id="Group-14" transform="translate(1021.000000, 0.000000)">
+                    <g id="Group-13" transform="translate(0.000000, 186.000000)">
+                        <path d="M20.1250143,0 L2.8750004,0 C1.28943662,0 0,1.28943918 0,2.87500295 L0,20.1249977 C0,21.7105934 1.28943662,23 2.8750004,23 L11.5,23 L11.5,15.0937436 L8.62500503,15.0937436 L8.62500503,11.5 L11.5,11.5 L11.5,8.62498842 C11.5,6.24308095 13.4306033,4.31250411 15.8125108,4.31250411 L18.6875131,4.31250411 L18.6875131,7.90623784 L17.250012,7.90623784 C16.4565113,7.90623784 15.8125108,7.83148778 15.8125108,8.62498842 L15.8125108,11.5 L19.4062637,11.5 L17.9687626,15.0937436 L15.8125108,15.0937436 L15.8125108,23 L20.1250143,23 C21.71061,23 23.0000166,21.7105934 23.0000166,20.1249977 L23.0000166,2.87500295 C23.0000166,1.28943918 21.71061,0 20.1250143,0 Z" id="Fb-Dark"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
