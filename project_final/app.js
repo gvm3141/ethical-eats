@@ -54,7 +54,7 @@ app.use(cookieParser());
 
 // config express-session
 var sess = {
-  secret: 'dogtesting98787',
+  secret: 'dogtestingllama98787',
   cookie: {},
   resave: false,
   saveUninitialized: true

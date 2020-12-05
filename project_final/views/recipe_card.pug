@@ -33,7 +33,14 @@ block content
                         option= alternative
                     <button onclick="changeTable()" title='Click to replace original ingredient'>Replace</button>
                   td 
-                    a(href=item.reason) Link
+                    a(href=item.reason target='_blank') Link
+      p.recipe_card-steps
+        table.steps_table 
+          tr
+            th.align-left Steps 
+          each step in recipe.steps
+            tr
+              td.align-left= step
       a.button.button-home(href=`/recipes`)
         | Home
       if locals.user

@@ -22,6 +22,12 @@ router.get("/recipes", function (req, res) {
   });
 });
 
+router.get("/create_recipe", function (req, res) {
+  res.render("create_recipe", {
+    title: "Ethical Eats",
+  });
+});
+
 router.get("/recipe_card", function (req, res) {
   const recipe = recipes_db.recipe_cards.find(p => p.id == req.query.id);
   const { _raw, _json, ...userProfile } = req.user;

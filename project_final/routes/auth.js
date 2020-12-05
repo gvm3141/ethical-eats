@@ -33,13 +33,7 @@ router.get('/callback', function (req, res, next) {
 router.get('/logout', (req, res) => {
   req.logout();
 
-  //var returnTo = req.protocol + '://' + req.hostname;
-  //var port = req.connection.localPort;
-  //if (port !== undefined && port !== 80 && port !== 443) {
-  //  returnTo += ':' + port;
-  //}
-
-  var logoutURL = 'https://blooming-sierra-89404.herokuapp.com';
+  var logoutURL = 'https://ethical-eating-gmont.herokuapp.com';
 
   res.redirect(logoutURL);
 });
